@@ -1,14 +1,13 @@
 {
-  "serverstatus": "live",
-  "libUrl": "https://github.com/SIRKIT359/SIRKITMOD/raw/refs/heads/main/libsirkitmod.so",
-  "LibUrl": "https://github.com/SIRKIT359/SIRKITMOD/raw/refs/heads/main/libsirkitmod.so",
-  "LibName": "libsirkitmod.so",
-  "libVersion": 3,
-  "isForceUpdate": true,
-  "versionCode": 17,
-  "forceTitle": "UPDATE REQUIRED!",
-  "forceMessage": "SIRKITMOD ka naya update aa gaya hai. Purana MOD kaam nahi karega. Update karo!",
-  "updateUrl": "https://t.me/SIRKITMOD",
-  "notice_title": "SIRKITMOD",
-  "notice_body": "Welcome"
+  "serverstatus": "ON",
+  "libUrl": "https://raw.githubusercontent.com/SIRKIT359/SIRKITMOD/main/libsirkitmod.so",
+  "libName": "libsirkitmod.so",
+  "libVersion": 1,
+  "isUpdateAvailable": false,
+  "forceUpdate": false,
+  "forceUpdateLink": "https://t.me/SIRKITMOD",
+  "updateMessage": "Naya update aa gaya hai, purana MOD kaam nahi karega. Update karo!",
+  "notice_status": "ON",
+  "notice_title": "SYSTEM NOTICE",
+  "notice_desc": "Welcome"
 }
