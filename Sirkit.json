@@ -1,14 +1,27 @@
 {
-  "server_status": "ON",
-  "lib1": "https://raw.githubusercontent.com/SIRKIT359/SIRKITMOD/main/libsirkitmod.so",
-  "libName32": "libsirkitmod.so",
-  "lib1v2": "https://raw.githubusercontent.com/SIRKIT359/SIRKITMOD/main/libDON.so",
-  "libName64": "libDON.so",
+  "serverstatus": "ON",
+  "libUrl": "https://raw.githubusercontent.com/SIRKIT359/SIRKITMOD/main/libsirkitmod.so",
+  "libName": "libsirkitmod.so",
   "libVersion": 1,
-  "updateAvailable": false,
+  "isUpdateAvailable": false,
   "forceUpdate": false,
-  "forceUpdateLink": "https://t.me/SIRKIT359",
-  "updateMessage": "Naya update aa gaya hai, purana MOD kaam nahi karega. Update karo.",
+  "forceUpdateLink": "https://t.me/SIRKITMOD",
+  "updateMessage": "Naya update aa gaya hai, purana MOD kaam nahi karega. Update karo!",
+  "notice_status": "ON",
+  "notice_title": "SYSTEM NOTICE",
+  "notice_desc": "Welcome"
+}
+
+
+{
+  "serverstatus": "ON",
+  "libUrl": "https://raw.githubusercontent.com/SIRKIT359/SIRKITMOD/main/libDON.so",
+  "libName": "libDON.so",
+  "libVersion": 1,
+  "isUpdateAvailable": false,
+  "forceUpdate": false,
+  "forceUpdateLink": "https://t.me/SIRKITMOD",
+  "updateMessage": "Naya update aa gaya hai, purana MOD kaam nahi karega. Update karo!",
   "notice_status": "ON",
   "notice_title": "SYSTEM NOTICE",
   "notice_desc": "Welcome"
