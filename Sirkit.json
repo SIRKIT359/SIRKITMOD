@@ -1,7 +1,9 @@
 {
-  "serverstatus": "OFFl",
-  "libUrl": "https://raw.githubusercontent.com/SIRKIT359/SIRKITMOD/main/libsirkitmod.so",
-  "libName": "libsirkitmod.so",
+  "serverstatus": "ON",
+  "libUrl32": "https://raw.githubusercontent.com/SIRKIT359/SIRKITMOD/main/libsirkitmod.so",
+  "libName32": "libsirkitmod.so",
+  "libUrl64": "https://raw.githubusercontent.com/SIRKIT359/SIRKITMOD/main/libsirkitmod_64.so",
+  "libName64": "libsirkitmod_64.so",
   "libVersion": 1,
   "isUpdateAvailable": false,
   "forceUpdate": false,
